@@ -13,7 +13,7 @@ class App extends Component {
         <div className="App">
         {/*Navigation Bar*/}
           <ul>
-            <li className="navList"><Link to="/">Home</Link></li>
+            <li className="nav"><Link to="/">Home</Link></li>
             <li className="nav"><Link to="/todopage">ToDoList</Link></li>
             <li className="nav"><Link to="/counterapp">CounterApp</Link></li>
           </ul>
